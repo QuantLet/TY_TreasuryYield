@@ -13,7 +13,7 @@ Description: The project adresses the topic of treasury yields and bond prices, 
 
 Submitted: 24 Dec 2023
 
-Keywords: 
+Keywords: -Treasury Yield -Bonds -Tweet Sentiment Analysis -VADER -Trading
 
 Author: Matúš Kubla, Lucas Cheng
 
